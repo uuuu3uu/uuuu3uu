@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm jeongmoon</h1>
-<h3 align="center">성의를 중요시하는 성장형 개발자</h3>
+<h1 align="left">Hi 👋, I'm jeongmoon</h1>
+<h3 align="left">성의를 중요시하는 성장형 개발자</h3>
 
 - 🔭 I’m currently working on [뷰티 예약 프로그램](준비중..)
 
