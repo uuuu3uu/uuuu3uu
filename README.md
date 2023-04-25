@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jeongmoon</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h3 align="left">A passionate frontend developer from Korea</h3>
 
 - 🔭 I’m currently working on [뷰티 예약 프로그램(테스트페이지)](https://uuuu3uu.github.io/Beauty-Reservation-Test-Page/)
 
