@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm jeongmoon</h1>
-<h3 align="left">성의를 중요시하는 성장형 개발자</h3>
+<h1 align="center">Hi 👋, I'm jeongmoon</h1>
+<h3 align="center">A passionate frontend developer from Korea</h3>
 
-- 🔭 I’m currently working on [뷰티 예약 프로그램](준비중..)
+- 🔭 I’m currently working on [뷰티 예약 프로그램(테스트페이지)](https://uuuu3uu.github.io/Beauty-Reservation-Test-Page/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/uuuu3uu](https://github.com/uuuu3uu)
 
