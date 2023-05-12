@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm jeongmoon</h1>
-<h3 align="left">A passionate frontend developer from Korea</h3>
+<h3 align="center">A passionate Backend developer from Korea</h3>
 
-- 🔭 I’m currently working on [뷰티 예약 프로그램(테스트페이지)](https://uuuu3uu.github.io/Beauty-Reservation-Test-Page/)
+- 🔭 I’m currently working on [뷰티예약프로그램](http://49.142.157.251:9090/green2209S_14/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/uuuu3uu](https://github.com/uuuu3uu)
+- 👨‍💻 All of my projects are available at [https://uuuu3uu.github.io/Beauty-Reservation-Test-Page/](https://uuuu3uu.github.io/Beauty-Reservation-Test-Page/)
 
 - 📫 How to reach me **u3u0416@gmail.com**
 
@@ -17,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uuuu3uu&show_icons=true&locale=en&layout=compact" alt="uuuu3uu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uuuu3uu&show_icons=true&locale=en" alt="uuuu3uu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uuuu3uu&" alt="uuuu3uu" /></p>
