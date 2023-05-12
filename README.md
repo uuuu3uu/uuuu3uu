@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jeongmoon</h1>
-<h3 align="center">A passionate Backend developer from Korea</h3>
+<h3 align="left">A passionate Backend developer from Korea</h3>
 
 - 🔭 I’m currently working on [뷰티예약프로그램](http://49.142.157.251:9090/green2209S_14/)
 
