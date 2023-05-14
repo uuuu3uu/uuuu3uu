@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [뷰티예약프로그램](http://49.142.157.251:9090/green2209S_14/)
 
-- 👨‍💻 All of my projects are available at [https://uuuu3uu.github.io/Beauty-Reservation-Test-Page/](https://uuuu3uu.github.io/Beauty-Reservation-Test-Page/)
+- 👨‍💻 All of my projects are available at [https://dented-blizzard-b65.notion.site/6e89b9a5f1cc420ea4bc260c471754c8]([https://uuuu3uu.github.io/Beauty-Reservation-Test-Page/](https://dented-blizzard-b65.notion.site/6e89b9a5f1cc420ea4bc260c471754c8))
 
 - 📫 How to reach me **u3u0416@gmail.com**
 
